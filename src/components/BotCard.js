@@ -9,7 +9,7 @@ const botTypeClasses = {
   Captain: "icon star",
 };
 
-function BotCard({ bot }) {
+function botCard({ bot }) {
   return (
     <div className="ui column">
       <div
@@ -61,4 +61,4 @@ function BotCard({ bot }) {
   );
 }
 
-export default BotCard;
+export default botCard;
