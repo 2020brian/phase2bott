@@ -19,7 +19,7 @@ function BotCollection() {
       {/* <h1>Collection of bot</h1> */}
 
 					{data.map((bot)=>( 
-            				<>
+<>
 
             <BotCard bot={bot} />
             </>
