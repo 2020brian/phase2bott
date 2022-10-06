@@ -15,7 +15,7 @@ function YourBotArmy({ botArmy, deleteBot, removeBotFromArmy, addBotToArmy }) {
     );
   });
   return (
-    <div className='ui segment inverted olive bot-army'>
+    <div className='ui segment inverted red bot-army'>
       <div className='ui five column grid'>
         Your Bot Army
         <div className='row bot-army-row'>
